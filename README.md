@@ -7,4 +7,4 @@
 ## Module 1
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
-|10.30.17|Hashketball Review|[GitHub]()|[YouTube]()|
+|10.30.17|Hashketball Review|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/01_hashketball_review)|[YouTube](https://youtu.be/6X_as5yvRWc)|
