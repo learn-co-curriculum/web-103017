@@ -8,3 +8,4 @@
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
 |10.30.17|Hashketball Review|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/01_hashketball_review)|[YouTube](https://youtu.be/6X_as5yvRWc)|
+|10.31.17|Hashes and the Internet Intro|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/02_hashes_and_the_internet)|[YouTube]()|
