@@ -10,3 +10,4 @@
 |10.30.17|Hashketball Review|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/01_hashketball_review)|[YouTube](https://youtu.be/6X_as5yvRWc)|
 |10.31.17|Hashes and the Internet Intro|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/02_hashes_and_the_internet)|[YouTube](https://youtu.be/jRCvgiH3-7I)|
 |11.01.17|Intro to Object Orientation|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/03_intro_to_oo)|[YouTube](https://youtu.be/6DTL0ITOQjs)|
+|11.02.17|Object Orientation - Inheritance and Basic Associations|[GitHub]()|[YouTube](https://youtu.be/6h7y6DyCxJU)|
