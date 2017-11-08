@@ -11,6 +11,6 @@
 |10.31.17|Hashes and the Internet Intro|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/02_hashes_and_the_internet)|[YouTube](https://youtu.be/jRCvgiH3-7I)|
 |11.01.17|Intro to Object Orientation|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/03_intro_to_oo)|[YouTube](https://youtu.be/6DTL0ITOQjs)|
 |11.02.17|Object Orientation - Inheritance and Basic Associations|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/04_intro_object_relations)|[YouTube](https://youtu.be/6h7y6DyCxJU)|
-|11.03.17|Advanced Object Relations|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/05_advanced_object_relations)|[YouTube]()|
-|11.06.17|SQL Review|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/06_sql_review)|[YouTube]()|
-|11.07.17|Intro to ORMs|[GitHub]()|[YouTube](https://youtu.be/LsRmk6OK-QU)|
+|11.03.17|Advanced Object Relations|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/05_advanced_object_relations)|[YouTube](https://youtu.be/7WW_Hdhnqoc)|
+|11.06.17|SQL Review|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/06_sql_review)|[YouTube](https://youtu.be/aDA-yRmYorI)|
+|11.07.17|Intro to ORMs|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/07_intro_to_orms)|[YouTube](https://youtu.be/LsRmk6OK-QU)|
