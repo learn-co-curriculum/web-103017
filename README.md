@@ -16,4 +16,4 @@
 |11.07.17|Intro to ORMs|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/07_intro_to_orms)|[YouTube](https://youtu.be/LsRmk6OK-QU)|
 |11.08.17|Dynamic ORMs|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/08_dynamic_orms)|[YouTube](https://youtu.be/ANV1Ghh7dDA)|
 |11.13.17|Intro to ActiveRecord|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/09_active_record)|[YouTube](https://youtu.be/ak58iW4S330)|
-|11.14.17|Advanced ActiveRecord|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/10_advanced_active_record)|[YouTube](https://youtu.be/2nGp9i6FPBA)|
+|11.14.17|Advanced ActiveRecord|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/10_advanced_active_record)|[p1](https://youtu.be/2nGp9i6FPBA) [p2](https://youtu.be/RYYdlXabIdY)|
