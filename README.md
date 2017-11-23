@@ -17,3 +17,11 @@
 |11.08.17|Dynamic ORMs|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/08_dynamic_orms)|[YouTube](https://youtu.be/ANV1Ghh7dDA)|
 |11.13.17|Intro to ActiveRecord|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/09_active_record)|[YouTube](https://youtu.be/ak58iW4S330)|
 |11.14.17|Advanced ActiveRecord|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/10_advanced_active_record)|[p1](https://youtu.be/2nGp9i6FPBA) [p2](https://youtu.be/RYYdlXabIdY)|
+
+
+
+## Module 2
+|Date|Topic|Code|Video|
+|:--|:--|:--|:--|
+|11.21.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/12_sinatra_mvc)|[Video](https://youtu.be/EgGRanUjMkU)
+|11.22.17|Sinatra More Forms |[Github](https://github.com/learn-co-students/web-103017/tree/form-nested/12_sinatra_mvc)|[Video](https://youtu.be/eVy6lYDl2Fc)
