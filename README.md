@@ -26,4 +26,5 @@
 |11.21.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/12_sinatra_mvc)|[Video](https://youtu.be/EgGRanUjMkU)
 |11.22.17|Sinatra More Forms |[Github](https://github.com/learn-co-students/web-103017/tree/form-nested/12_sinatra_mvc)|[Video](https://youtu.be/eVy6lYDl2Fc)
 |11.28.17|Rails Forms |[Github](https://github.com/learn-co-students/web-103017/tree/master/13_rails_forms/lastfm-clone)|[Video](https://youtu.be/8ehtBhXZ8VI)
+[11.29.17]| Rails Forms Validations | [Github](https://github.com/learn-co-students/web-103017/tree/master/13_rails_forms/docoffice)
 
