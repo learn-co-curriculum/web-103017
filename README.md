@@ -29,3 +29,7 @@
 |11.29.17| Rails Forms Validations | [Github](https://github.com/learn-co-students/web-103017/tree/master/13_rails_forms/docoffice) | [Video](https://youtu.be/73fjjOpH6uM)
 |11.29.17| Rails Associations and Forms | [Github](https://github.com/learn-co-students/web-103017/tree/master/13_rails_forms/docoffice) | [Video](https://youtu.be/H6MZybvC9FM)
 
+## Module 3
+|Date|Topic|Code|Video|
+|:--|:--|:--|:--|
+|10.30.17|Procedural JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/17_procedural_javascript)|[YouTube](https://youtu.be/-GN1dPbsvrQ)|
