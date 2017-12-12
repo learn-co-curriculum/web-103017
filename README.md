@@ -33,3 +33,4 @@
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
 |10.30.17|Procedural JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/17_procedural_javascript)|[YouTube](https://youtu.be/-GN1dPbsvrQ)|
+|10.30.17|Functional JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/18_functional_javascript)|[YouTube](https://youtu.be/aBmMx5sIHwI)|
