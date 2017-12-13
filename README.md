@@ -32,5 +32,6 @@
 ## Module 3
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
-|10.30.17|Procedural JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/17_procedural_javascript)|[YouTube](https://youtu.be/-GN1dPbsvrQ)|
-|10.30.17|Functional JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/18_functional_javascript)|[YouTube](https://youtu.be/aBmMx5sIHwI)|
+|12.11.17|Procedural JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/17_procedural_javascript)|[YouTube](https://youtu.be/-GN1dPbsvrQ)|
+|12.12.17|Functional JavaScript|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/18_functional_javascript)|[YouTube](https://youtu.be/aBmMx5sIHwI)|
+|12.13.17|`this` and Object Creation|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/19_this_object_creation)|[`this`](https://youtu.be/-iJ5uzh0Ums) [Object Creation](https://youtu.be/Gl53csJRjG0)|
