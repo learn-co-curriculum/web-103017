@@ -37,3 +37,4 @@
 |12.13.17|`this` and Object Creation|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/19_this_object_creation)|[`this`](https://youtu.be/-iJ5uzh0Ums) / [Object Creation](https://youtu.be/Gl53csJRjG0)|
 |12.14.17|DOM Elements and Events|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/20_document_object_model)|[YouTube](https://youtu.be/kUeDrSjD7kg)|
 |12.15.17|AJAX & Fetch 💁🏼‍♂️|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/21_ajax)|[YouTube](https://youtu.be/OfWU9YSLpII)|
+|12.18.17|Rails 5 API Intro|[GitHub](https://github.com/learn-co-students/web-103017/tree/master/22_rails_5_api_intro)|[YouTube](https://youtu.be/_rcIN0N21X4)|
