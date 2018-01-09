@@ -42,4 +42,4 @@
 ## Module 4
 * [Intro to React, JSX](https://www.youtube.com/watch?v=qkY8uccv7CU&feature=youtu.be) | [Code (master branch and webpack branch)](https://github.com/learn-co-curriculum/react-starter-103017)
 * [Props and State](http://youtu.be/Sjla00Wrj20) | [Code (webpack branch)](https://github.com/learn-co-curriculum/react-starter-103017)
-* State, Events, Forms (video coming soon) | [Code](https://github.com/learn-co-students/web-103017/tree/master/26_state_and_events/state-and-events-practice)
+* [State, Events, Forms](http://youtu.be/qIXCRdfSXfI) | [Code](https://github.com/learn-co-students/web-103017/tree/master/26_state_and_events/state-and-events-practice)
