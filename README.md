@@ -41,3 +41,4 @@
 
 ## Module 4
 * [Intro to React, JSX](https://www.youtube.com/watch?v=qkY8uccv7CU&feature=youtu.be) | [Code (master branch and webpack branch)](https://github.com/learn-co-curriculum/react-starter-103017)
+* [Props and State](http://youtu.be/Sjla00Wrj20) | [Code (webpack branch)](https://github.com/learn-co-curriculum/react-starter-103017)
