@@ -52,3 +52,4 @@
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
+* [Big O](http://youtu.be/9SDwnL1SVfk)
