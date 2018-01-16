@@ -50,6 +50,7 @@
 * [State, Events, Forms](http://youtu.be/qIXCRdfSXfI) | [Code](https://github.com/learn-co-students/web-103017/tree/master/26_state_and_events/state-and-events-practice)
 * [Pets Review, More Thinking in React](http://youtu.be/h3tIZHASUH4) | [Code](https://github.com/learn-co-students/web-103017/tree/master/27_more_thinking_in_react)
 * [React Component Lifecycle Methods Part One](https://youtu.be/3EbAstDUsSY) | [Part Two](https://youtu.be/BREgcplqOjw) | [Code](https://github.com/learn-co-students/web-103017/tree/master/28_react_component_lifecycle_methods)
+* React Router | [Code](https://github.com/learn-co-students/web-103017/tree/router)
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
