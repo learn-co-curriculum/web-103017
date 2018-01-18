@@ -53,8 +53,8 @@
 * [React Component Lifecycle Methods Part One](https://youtu.be/3EbAstDUsSY) | [Part Two](https://youtu.be/BREgcplqOjw) | [Code](https://github.com/learn-co-students/web-103017/tree/master/28_react_component_lifecycle_methods)
 * [React Router](https://youtu.be/HwWVHKoA1bM) | [Niky Code](https://github.com/learn-co-students/web-103017/tree/router) |
 * [React Router - Alex Video](https://youtu.be/lps-Eq2QWxk) | [Alex Code](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/router)
-* Auth Part i (video coming soon) | [Frontend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/react-painting-example-app-web-103017) | [Backend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/painting-example-app-backend)
-* Auth Part ii (video coming soon) | Same code as above
+* [Auth Part i](https://www.youtube.com/watch?v=iuUXtolR0p0&feature=youtu.ben) | [Frontend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/react-painting-example-app-web-103017) | [Backend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/painting-example-app-backend)
+* [Auth Part ii](https://www.youtube.com/watch?v=OdNiDekEGIw&feature=youtu.be) | Same code as above
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
