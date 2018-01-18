@@ -43,6 +43,7 @@
 
 #### Resources
 * [Lifecycle Methods](https://gist.github.com/alexgriff/1b5850cac9a1d565f0cb66a941505b99)
+* [JWT Auth](https://gist.github.com/alexgriff/414a05a0b6908145f050888e073df7ff)
 
 #### Videos
 * [Intro to React, JSX](https://www.youtube.com/watch?v=qkY8uccv7CU&feature=youtu.be) | [Code (master branch and webpack branch)](https://github.com/learn-co-curriculum/react-starter-103017)
@@ -52,7 +53,9 @@
 * [React Component Lifecycle Methods Part One](https://youtu.be/3EbAstDUsSY) | [Part Two](https://youtu.be/BREgcplqOjw) | [Code](https://github.com/learn-co-students/web-103017/tree/master/28_react_component_lifecycle_methods)
 * [React Router](https://youtu.be/HwWVHKoA1bM) | [Niky Code](https://github.com/learn-co-students/web-103017/tree/router) |
 * [React Router - Alex Video](https://youtu.be/lps-Eq2QWxk) | [Alex Code](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/router)
+* Auth Part i (video coming soon) | [Frontend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/react-painting-example-app-web-103017) | [Backend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/painting-example-app-backend)
+* Auth Part ii (video coming soon) | Same code as above
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
-* [Big O](http://youtu.be/9SDwnL1SVfk)
+* [Big O](http://youtu.be/9SDwnL1SVfk) 
