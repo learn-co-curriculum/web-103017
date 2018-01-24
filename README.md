@@ -55,7 +55,7 @@
 * [React Router - Alex Video](https://youtu.be/lps-Eq2QWxk) | [Alex Code](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/router)
 * [Auth Part i](https://www.youtube.com/watch?v=iuUXtolR0p0&feature=youtu.ben) | [Frontend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/react-painting-example-app-web-103017) | [Backend](https://github.com/learn-co-students/web-103017/tree/master/30_auth_react_rails/painting-example-app-backend)
 * [Auth Part ii](https://www.youtube.com/watch?v=OdNiDekEGIw&feature=youtu.be) | Same code as above
-* _HOCs video coming soon_ | [Code](https://github.com/learn-co-students/web-103017/tree/master/31_hocs)
+* [HOCs](http://youtu.be/A5ZMxrX90WI) | [Code](https://github.com/learn-co-students/web-103017/tree/master/31_hocs)
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
