@@ -60,9 +60,11 @@
 ## Redux
 
 #### Resources
+* [Redux Terminology Cheatsheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
 
 #### Videos
-* [Intro to Redux](http://youtu.be/UZT7OCDcgOw)
+* [Intro to Redux](http://youtu.be/UZT7OCDcgOw) | [Code](https://github.com/learn-co-students/web-103017/tree/master/32_redux/redux-prep)
+* [Intro to React-Redux](http://youtu.be/maueLN9rOS8)
 
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
