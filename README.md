@@ -57,6 +57,13 @@
 * [Auth Part ii](https://www.youtube.com/watch?v=OdNiDekEGIw&feature=youtu.be) | Same code as above
 * [HOCs](http://youtu.be/A5ZMxrX90WI) | [Code](https://github.com/learn-co-students/web-103017/tree/master/31_hocs)
 
+## Redux
+
+#### Resources
+
+#### Videos
+* [Intro to Redux](http://youtu.be/UZT7OCDcgOw)
+
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
 * [Big O](http://youtu.be/9SDwnL1SVfk) 
