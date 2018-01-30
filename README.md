@@ -68,7 +68,7 @@
 * [Intro to Redux](http://youtu.be/UZT7OCDcgOw) | [Code](https://github.com/learn-co-students/web-103017/tree/master/32_redux/redux-prep)
 * [Intro to React-Redux](http://youtu.be/maueLN9rOS8)
 * [DIY Redux](http://youtu.be/mhr4ssWNuNA) | Same repo as above: 'diy' branch
-* [Redux Thunk] _video coming soon_ | [Code](https://github.com/learn-co-students/web-103017/tree/master/34_thunk_exercise)
+* [Redux Thunk](http://youtu.be/KiUQc8znq1c) | [Code](https://github.com/learn-co-students/web-103017/tree/master/34_thunk_exercise)
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
 * [Big O](http://youtu.be/9SDwnL1SVfk) 
